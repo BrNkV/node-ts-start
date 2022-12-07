@@ -1,3 +1,3 @@
 export function testModule(test: string): void {
-    console.log(test + " module")
+    console.log(test + " test-module work")
 }
